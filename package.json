@@ -10,7 +10,6 @@
   },
   "private": true,
   "scripts": {
-    "fixpack": "fixpack",
-    "webpack": "webpack --colors --display-error-details --progress --hot --watch"
+    "fixpack": "fixpack"
   }
 }

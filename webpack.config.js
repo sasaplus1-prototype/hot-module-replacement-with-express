@@ -18,6 +18,7 @@ module.exports = function(env) {
       },
       plugins: [
         new webpack.HotModuleReplacementPlugin(),
+        new webpack.NamedModulesPlugin(),
         new webpack.NoEmitOnErrorsPlugin(),
       ],
       target: 'web',

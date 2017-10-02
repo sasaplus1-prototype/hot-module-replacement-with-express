@@ -16,12 +16,6 @@ start server.
 $ npm start
 ```
 
-start build script by another session.
-
-```console
-$ npm run webpack
-```
-
 edit `src/client/hello.js`.
 
 ## Libraries
